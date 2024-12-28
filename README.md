@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Blockchain
 - 🌱 I’m currently learning about the latest web technologies and blockchain concepts
 - 💞️ I’m looking to collaborate on innovative web projects and blockchain solutions
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: vs073596@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m always eager to explore the intersection of technology and creativity!
 
