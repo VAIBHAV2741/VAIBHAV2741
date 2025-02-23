@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VAIBHAV2741
+- 👋 Hi, I’m Vaibhav Sharma
 - 👀 I’m interested in Web Development and Blockchain
 - 🌱 I’m currently learning about the latest web technologies and blockchain concepts
 - 💞️ I’m looking to collaborate on innovative web projects and blockchain solutions
