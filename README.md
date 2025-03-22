@@ -105,7 +105,3 @@ An online **Real-Time Code Editor** with **React.js**, **Express.js**, and **Web
 ---
 
 ## 🚀 Let's Build Something Amazing Together!
-
----
-
-Let me know if you want to tweak the theme, add GitHub trophies, or showcase any specific repo!
