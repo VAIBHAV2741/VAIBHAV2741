@@ -1,6 +1,4 @@
-Here's a professional, attractive, and comprehensive `README.md` for your GitHub profile or a project that showcases your overall development experience and projects.
 
----
 
 # 🚀 Vaibhav Sharma | Full-Stack Developer | Data Enthusiast
 
