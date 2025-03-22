@@ -21,7 +21,7 @@ Hi! I’m **Vaibhav Sharma**, a detail-oriented and analytical **Full-Stack Web 
 
 | Languages | Frontend | Backend | Database | Tools |
 |-----------|----------|---------|----------|-------|
-| `C` `C++` `Java` `Python` `Go` | `HTML` `CSS` `JavaScript` `Tailwind CSS` `React.js` | `Node.js` `Express.js` `EJS` | `MongoDB` `PostgreSQL` `SQL` | `Git` `GitHub` `Postman` `Tableau` |
+| `C` `C++` `Java` `Python` `Go` | `HTML` `CSS` `JavaScript` `Tailwind CSS` `React.js` `Next.js` | `Node.js` `Express.js` `EJS` | `MongoDB` `PostgreSQL` `SQL` | `Git` `GitHub` `Postman` `Tableau` |
 
 ---
 
